@@ -1,7 +1,7 @@
 # A1 Lock and Key
-## Clients Landing Page
+## February 18th Clock-ins
 This is first time very excited.
 
 
-## February 18th Clock-ins
+
 <p>Our entire class finally did a push to GitHub. :-)</p>
