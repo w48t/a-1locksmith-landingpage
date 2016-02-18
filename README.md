@@ -2,5 +2,6 @@
 ## Clients Landing Page
 This is first time very excited.
 
-### February 17th, 2016
+
+## February 18th Clock-ins
 <p>Our entire class finally did a push to GitHub. :-)</p>
